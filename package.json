@@ -1,0 +1,19 @@
+{
+  "name": "blogapp",
+  "version": "1.0.0",
+  "description": "API's for blog app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madhav",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.6",
+    "mongoose-unique-validator": "^1.0.6"
+  },
+  "devDependencies": {}
+}
